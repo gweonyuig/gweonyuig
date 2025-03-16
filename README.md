@@ -35,3 +35,4 @@
     <div align= "center">  </div> 
     </div>
     
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazr&theme=neon_icons=true)
